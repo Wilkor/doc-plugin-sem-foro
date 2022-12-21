@@ -16,6 +16,14 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   ![image](https://user-images.githubusercontent.com/34819624/208978373-a158cf22-ec13-4e46-9631-c3dde075e36e.png)
 
   - Depois que ativado, click no link abaixo para ativar a extensão no chrome de cada atendente.
+  
+  ![image](https://user-images.githubusercontent.com/34819624/208984598-7ea5d8b3-3bb4-4d7f-95e4-bafe1b569bcc.png)
+   
+   Em seguida, usar no chrome:
+   
+   ![image](https://user-images.githubusercontent.com/34819624/208984825-6bb8e412-70f9-4d92-852b-90510b0ba778.png)
+
+
   - Depois de ativado a extensão no Chrome, seu blipDesk ficará com esse icone.
   
   ![image](https://user-images.githubusercontent.com/34819624/208979059-2e8abae9-c1ae-4d9b-ba2c-4dfea2de5df2.png)
