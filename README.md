@@ -3,7 +3,7 @@
 
 # Como utilizar a extensão Semáforo!
 
-Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o plugin:
+Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
  - Procure por **Semáforo** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
