@@ -30,7 +30,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Ao clicar no ícone em seu blipDesk, a tela abaixo irá aparecer na lateral direita da tela.
   
-  ![image](https://user-images.githubusercontent.com/34819624/208979368-5bb251c4-1b2b-4031-8440-f02b88657191.png)
+  ![image](https://user-images.githubusercontent.com/34819624/216687560-7bd7a0d1-c04a-43c6-85da-dcd96848605a.png)
 
   Clicando no menu Semáforo, abrirá uma tela de com 3 emoji que representam o humor do cliente, são eles:
   
@@ -48,7 +48,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   Ao clicar no menu **Consultar** e digitar o tunnel.originator do cliente, teremos uma porcentagem de como esta o humor desse cliente:
   
-  ![image](https://user-images.githubusercontent.com/34819624/208980436-8924de97-ffed-4cbc-ac04-1d98892c1e4e.png)
+![image](https://user-images.githubusercontent.com/34819624/216687394-aecd5744-b711-4274-acb2-0fa0da2b500d.png)
+
+
 
 
  
