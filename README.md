@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-semaforo/assets/34819624/b54e4cb0-37e0-43e9-9e67-eb1b7e81be67)
 
 # Como utilizar a extensão Semáforo!
 
